@@ -35,7 +35,7 @@ public class Step {
     @Given("the home page of gittigidiyor is displayed")
     public void the_home_page_of_gittigidiyor_is_displayed() throws InterruptedException {
         String path = System.getProperty("user.dir");
-        System.setProperty("webdriver.chrome.driver", "/Users/cvsburak/Downloads/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "C:\Users\enis_\Downloads\chromedriver_win32chromedriver");
         ChromeOptions options = new ChromeOptions();
         Map<String, Object> prefs = new HashMap<String, Object>();
         prefs.put("profile.default_content_setting_values.notifications", 2);
