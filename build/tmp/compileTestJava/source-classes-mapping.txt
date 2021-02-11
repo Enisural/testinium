@@ -1,0 +1,18 @@
+pageObjects/HomePage.java
+ pageObjects.HomePage
+pageObjects/ProductPage.java
+ pageObjects.ProductPage
+testRunner/TestRunner.java
+ testRunner.TestRunner
+enums/Context.java
+ enums.Context
+utilities/ScenarioContext.java
+ utilities.ScenarioContext
+pageObjects/ProductsPage.java
+ pageObjects.ProductsPage
+pageObjects/LoginPage.java
+ pageObjects.LoginPage
+pageObjects/BasketPage.java
+ pageObjects.BasketPage
+StepDefinitions/Step.java
+ StepDefinitions.Step
